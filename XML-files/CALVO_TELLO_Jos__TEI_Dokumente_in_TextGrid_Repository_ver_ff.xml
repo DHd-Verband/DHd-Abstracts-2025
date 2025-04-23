@@ -1,0 +1,398 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="CALVO_TELLO_Jos__TEI_Dokumente_in_TextGrid_Repository_ver_ff">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title type="full">
+                    <title type="main">TEI-Dokumente in TextGrid Repository veröffentlichen und archivieren: neue Features und fluffiger Import Workflow</title>
+                    <title type="sub"/>
+                </title>
+                <author>
+                    <persName>
+                        <surname>Calvo Tello</surname>
+                        <forename>José</forename>
+                    </persName>
+                    <affiliation>Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
+                    <email>calvotello@sub.uni-goettingen.de</email>
+                    <idno type="ORCID">0000-0002-1129-5604</idno>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Barth</surname>
+                        <forename>Florian</forename>
+                    </persName>
+                    <affiliation>Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
+                    <email>florian.barth@uni-goettingen.de</email>
+                    <idno type="ORCID">0000-0003-3408-7311</idno>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Buddenbohm</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                    <affiliation>Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
+                    <email>buddenbohm@sub.uni-goettingen.de</email>
+                    <idno type="ORCID">0000-0002-3469-6101</idno>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Dogaru</surname>
+                        <forename>George</forename>
+                    </persName>
+                    <affiliation>Gesellschaft für wissenschaftliche Datenverarbeitung mbH Göttingen (GWDG), Deutschland</affiliation>
+                    <email>george.dogaru@gwdg.de</email>
+                    <idno type="ORCID">0000-0001-9500-9638</idno>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Funk</surname>
+                        <forename>Stefan</forename>
+                    </persName>
+                    <affiliation>Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
+                    <email>funk@sub.uni-goettingen.de</email>
+                    <idno type="ORCID">0000-0003-1259-2288</idno>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Göbel</surname>
+                        <forename>Mathias</forename>
+                    </persName>
+                    <affiliation>Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
+                    <email>goebel@sub.uni-goettingen.de</email>
+                    <idno type="ORCID">0000-0002-1102-5284</idno>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Klammer</surname>
+                        <forename>Ralf</forename>
+                    </persName>
+                    <affiliation>Technische Universität Dresden, Deutschland</affiliation>
+                    <email>ralf.klammer@tu-dresden.de</email>
+                    <idno type="ORCID">0000-0003-4816-6440</idno>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Kudella</surname>
+                        <forename>Christoph</forename>
+                    </persName>
+                    <affiliation>Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
+                    <email>kudella@sub.uni-goettingen.de</email>
+                    <idno type="ORCID">0000-0002-9645-7122</idno>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Rißler-Pipka</surname>
+                        <forename>Nanette</forename>
+                    </persName>
+                    <affiliation>Max Weber Stiftung, Deutschland</affiliation>
+                    <email>Rissler-Pipka@MaxWeberStiftung.de</email>
+                    <idno type="ORCID">0000-0002-0719-9003</idno>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Veentjer</surname>
+                        <forename>Ubbo</forename>
+                    </persName>
+                    <affiliation>Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
+                    <email>veentjer@sub.uni-goettingen.de</email>
+                    <idno type="ORCID">0000-0002-9726-3135</idno>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Weimer</surname>
+                        <forename>Lukas</forename>
+                    </persName>
+                    <affiliation>Niedersächsische Staats- und Universitätsbibliothek Göttingen, Deutschland</affiliation>
+                    <email>weimer@sub.uni-goettingen.de</email>
+                    <idno type="ORCID">0000-0001-6919-3646</idno>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2023-06-20T13:41:11.677000000</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Bielefeld Computational Literary Studies Group</publisher>
+                <address>
+                    <addrLine>Universität Bielefeld</addrLine>
+                    <addrLine>Universitätsstraße 25</addrLine>
+                    <addrLine>33615 Bielefeld</addrLine>
+                    <addrLine>Deutschland</addrLine>
+                </address>
+                <publisher>Digital History</publisher>
+                <address>
+                    <addrLine>Universität Bielefeld</addrLine>
+                    <addrLine>Universitätsstraße 25</addrLine>
+                    <addrLine>33615 Bielefeld</addrLine>
+                    <addrLine>Deutschland</addrLine>
+                </address>
+                <publisher>Digital Linguistics Lab</publisher>
+                <address>
+                    <addrLine>Universität Bielefeld</addrLine>
+                    <addrLine>Universitätsstraße 25</addrLine>
+                    <addrLine>33615 Bielefeld</addrLine>
+                    <addrLine>Deutschland</addrLine>
+                </address>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from an OASIS Open Document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application ident="DHCONVALIDATOR" version="1.22">
+                    <label>DHConvalidator</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="ConfTool" n="category">
+                    <term>Paper</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="subcategory">
+                    <term>Workshop</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="keywords">
+                    <term>TEI</term>
+                    <term>Publikation</term>
+                    <term>Repositorium</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="topics">
+                    <term>Aufzeichnung</term>
+                    <term>Archivierung</term>
+                    <term>Veröffentlichung</term>
+                    <term>Konservierung</term>
+                    <term>Literatur</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div type="div1" rend="DH-Heading1">
+                <head>
+                    <anchor xml:id="id__9atkje5pzhu8"/>Das TextGrid Repository
+                </head>
+                <p>TextGrid ist eines der langlebigsten DH-Projekte im deutschsprachigen Raum (Neuroth, Rapp, und Söring 2015). Die beiden Hauptkomponenten, das Repository (TGR) und das Laboratory (TGL), wurden ursprünglich im Rahmen der durch das BMBF geförderten D-Grid-Initiative entwickelt und innerhalb von DARIAH-DE und CLARIAH-DE weiterentwickelt (Calvo Tello u. a. 2023). Ein wesentlicher Bestand des TextGrid Repositories bildet die sogenannte ‘Digitale Bibliothek’
+                    <hi rend="sup"><ref n="1" target="ftn1"/>
+                    </hi>, eine umfangreiche Sammlung von Belletristik und Sachliteratur in deutscher Sprache, deren Texte in XML-TEI kodiert wurden und unter einer CC-BY 3.0 Lizenz (Betz 2015) zur Verfügung gestellt werden.
+                </p>
+                <p>Als XML-spezifisches Repositorium bietet das TextGrid Repository sowohl Projekten als auch Endnutzer*innen eine Reihe von Features. Dazu gehören z.B. die Transformation von TEI in HTML, die Generierung von Inhaltsverzeichnissen, die Vergabe von PIDs für jedes Objekt (wie Dokumente und Bilder) sowie die direkte Anbindung an Werkzeuge und Dienste wie die Voyant Tools oder das CLARIN Language Resource Switchboard. Zudem ermöglicht die sogenannte Regalfunktion die Zusammenstellung personalisierter Sammlungen (Funk und Pempe 2015).</p>
+                <p>Nach unserem Kenntnisstand ist das TextGrid Repository weltweit das einzige auf TEI spezialisierte Repository, in dem Projekte ihre Dokumente unabhängig vom Herkunftsland, der Gattung oder der Sprache der Dokumente kostenfrei veröffentlichen können (Calvo Tello et al. 2023). Nachhaltigkeit und Vertrauenswürdigkeit des TextGrid Repository sind durch das CoreTrustSeal ausgewiesen, dessen Wiederbeantragung derzeit in Bearbeitung ist.</p>
+            </div>
+            <div type="div1" rend="DH-Heading1">
+                <head>
+                    <anchor xml:id="id__gejgj29ic5lt"/>Neue Entwicklungen und Korpora
+                </head>
+                <p>Im Rahmen des NFDI-Konsortiums Text+ (Hinrichs u. a. 2022) wird das TextGrid Repository weiterentwickelt, wobei die Bereitstellung eines neuen, benutzerfreundlichen Import-Workflow (Buddenbohm u. a. 2024) einen der Schwerpunkte bildet. Dank dieser Entwicklung konnten in den letzten Monaten bereits mehrere Korpora und Textsammlungen veröffentlicht werden wie z.B. CoNSSA (Calvo Tello 2021), ELTeC (Rißler-Pipka u. a. 2023; Schöch u. a. 2021) oder textbox (Schöch u. a. 2019). Der Workshop soll es den Teilnehmenden ermöglichen, diesen neuen Import-Workflow kennenzulernen und selbst auszuprobieren.</p>
+                <p>Weitere Projekte werden gerade in Vorbereitung ihrer Publikation im TextGrid Repository betreut, darunter u.a. Korpora mit Bibelübersetzungen in ca. 100 Sprachen, französische und deutsche Romane, deutsche Lyrik, Folklore aus der Kaukasusregion und spanische Fabeln. Diese Betreuung erfolgt in mehreren Schritten, in denen die Forschenden Beispiele aus den Textsammlungen schicken und eine Fachperson Vorschläge und Feedback zur Verbesserung der Qualität der Metadaten gibt. Typische Beispiele sind das Fehlen wichtiger Metadaten in den TEI-Dokumenten, die für das gesamte Korpus oder die Sammlung zutreffend sind. Zum Beispiel hat ein Korpus aus französischen Romanen, die von Autorinnen geschrieben wurden, wahrscheinlich keine expliziten Metadaten zur Gattung, Sprache oder zum Geschlecht der Autor*in in den TEI-Dokumenten, da diese Informationen für das Projekt selbstverständlich sind. Diese Metadaten sind jedoch notwendig, wenn diese Dokumente neben anderen Dokumenten in einem Repository abgelegt werden. Ein weiteres Beispiel für mangelnde Qualität in den Metadaten ist der Verweis auf die Sprache durch einen nicht-standardisierten Freitext; zu bevorzugen wäre ein Standard wie z.B. durch einen ISO-Code. Das Hinzufügen vieler dieser Metadaten zu den TEI-Dokumenten kann automatisiert werden. Im Workshop wird es auch Zeit geben, um konkrete Beispiele gemeinsam zu diskutieren. Dadurch wird die Qualität der Metadaten und ihr FAIR-Status (Wilkinson u. a. 2016) erhöht, was die Auffindbarkeit der Forschungsdaten unabhängig von ihrer Veröffentlichung im TextGrid Repository verbessert.</p>
+                <p>Ein wesentlicher Aspekt dieser neuen Entwicklungen basiert auf einer stärkeren Berücksichtigung der FAIR-Prinzipien. So wurden z.B. neue Metadatenoptionen im Zusammenhang mit Linked Open Data Ressourcen ermöglicht, wie die Zuordnung zu Gattungen über die GND (Kett u. a. 2022) oder zu Fachklassifikationen über die Basisklassifikation (Calvo Tello u. a. 2023; Balakrishnan und Voß 2022; Schulz 1991). Die Integration und Ergänzung der GND-Entitäten wird derzeit mit der GND-Agentur in Text+ (Buddenbohm und Fischer 2023) abgestimmt.</p>
+                <p>Darüber hinaus wurden Features entwickelt, die bei der Veröffentlichung der Daten im TextGrid Repository projektspezifisch ausgestaltet werden können. Dazu zählt die Gestaltung einer individuellen Landing-Page als auch projektspezifische Metadaten für die Facettierung (z.B. Geschlecht der Autor*in), XSLT-Stylesheets, Projekt-Icons etc. (Calvo Tello u. a. 2023). Das Repository bietet zudem auch neue programmatische Zugänge zu den Texten und Metadaten, z.B. durch die neue Python-Bibliothek ‘tgclients’ (Hynek u. a. 2024). </p>
+                <p>Im TextGrid Repository publizierte Projekte profitieren zudem von einer Anbindung an die Dienste von Text+ wie z.B. Federated Content Search (Körner u. a. 2023), Registry (Gradl u. a. 2024) und Langzeitarchivierung (Dogaru 2023).</p>
+                <p>Wenn Interesse besteht, können im Workshop weitere Aspekte angesprochen werden, wie z.B. die Publikation von abgeleiteten Daten oder abgeleiteten Textformaten im TextGrid Repository (Calvo Tello und Rißler-Pipka 2023) oder die Einbindung von weiteren Ressourcen wie z.B. die Natural-Language-Processing-Pipeline MONAPipe (Barth u. a. 2023).</p>
+            </div>
+            <div type="div1" rend="DH-Heading1">
+                <head>
+                    <anchor xml:id="id__3ww6d84n25s0"/>Neuer 
+                    <hi rend="italic">fluffiger </hi>Import Workflow
+                </head>
+                <p>Das Metadatenmodell des TextGrid Repositories wurde vor dem theoretischen Hintergrund des konzeptuellen Modells ‘Functional Requirements for Bibliographic Records’ (FRBR) entwickelt. Hierbei wurden die vier Ebenen des FRBR-Modells - Werk, Expression, Manifestation und Exemplar (Gantert 2016; Taylor 2007) - auf drei Ebenen vereinfacht: Werk, Aggregation und Item (Neuroth, Rapp, und Söring 2015). Die Aggregation kann jedoch von unterschiedlicher Art sein, z.B. Edition und Sammlung. Jeder dieser Objekttypen wird zusätzlich in zwei Dokumente unterteilt: ein Dokument für die Daten und ein Dokument für die Metadaten. In der Praxis führt dies dazu, dass für jedes TEI-Dokument, das ein Projekt veröffentlichen will, bis zu fünf zusätzliche TextGrid Repository-Metadaten-Dokumente erzeugt werden müssen. Bisher wurde von den Forschenden erwartet, dass sie mit diesem Modell und den verschiedenen Ebenen von Dokumenten im TextGrid Repository umgehen können. Die Erfahrungen der letzten Jahre haben jedoch immer wieder gezeigt, dass dies die Veröffentlichung von Projekten behindert hat.</p>
+                <p>Eine mögliche Lösung wäre, das Metadatenmodell des TextGrid Repositories zu vereinfachen. Dies würde jedoch bedeuten, die gesamte Architektur des Repositoriums und der bereits publizierten Projekte zu ändern. Das Ziel der NFDI-Konsortien ist jedoch nicht die Neugestaltung bestehender Infrastrukturen, sondern die Integration bestehender Ressourcen.</p>
+                <p>Deshalb wird im neuen Import-Workflows davon ausgegangen, dass beinahe alle Metadaten, die für die Dokumente im TextGrid Repository benötigt werden, bereits in den ursprünglichen TEI-Dokumenten vorhanden sind. Einige der fehlenden Metadaten können dem gesamten Korpus pauschal zugeordnet werden, wie z.B. Genre, Geschlecht der Autorinnen und Sprache für das oben erwähnte fiktive Beispiel eines Korpus französischer Frauenromane. Mit dem neuen 
+                    <hi rend="italic">fluffigen </hi>Import erhalten die Forschenden zuerst ein von 
+                    <ref target="http://pypi.org/project/tg-model/">
+                        <hi rend="color(#1155cc)underline">tg-model</hi>
+                    </ref>
+                    <hi rend="sup"><ref n="2" target="ftn7"/>
+                    </hi> vorbereitetes YAML-Dokument. Dieses Dokument enthält Vorschläge für xPaths, die die Stellen in den XML-Dokumenten angeben, wo die benötigten Metadaten zu finden sind. Die Nutzenden müssen dann nur noch diese xPaths anpassen oder die Metadaten als pauschale Werte für das gesamte Korpus eingeben. Wenn die Nutzenden fertig sind, erzeugt tg-model für jedes Input-Dokument die fünf benötigten TextGrid Repository-Dokumente. Die Nutzenden können diese dann über 
+                    <ref target="http://pypi.org/project/tgadmin">
+                        <hi rend="color(#1155cc)underline">tgadmin</hi>
+                    </ref>
+                    <hi rend="sup"><ref n="3" target="ftn8"/>
+                    </hi> hochladen und in einem geschlossenen Bereich des TextGrid-Portals überprüfen, ob die Daten korrekt sind. Falls nicht, können die TEI-Dokumente, xPaths oder Werte erneut angepasst werden und der iterative Prozess kann so lange durchgeführt werden, bis die Nutzenden mit der Präsentation der Daten zufrieden sind.
+                </p>
+                <p>Der neue Import-Workflow kann am einfachsten auf dem 
+                    <ref target="http://jupyter-cloud.gwdg.de">
+                        <hi rend="color(#1155cc)underline">Text+-Jupyterhub</hi>
+                    </ref> durchgeführt werden. Für den neuen Import-Workflow wurden neue Tools entwickelt (tg-model, 
+                    <ref target="http://gitlab.gwdg.de/textplus/textgrid-import-ui">
+                        <hi rend="color(#1155cc)underline">textgrid-import-ui</hi>
+                    </ref>
+                    <hi rend="sup"><ref n="4" target="ftn9"/>
+                    </hi>) und bestehende weiterentwickelt (tgadmin, 
+                    <ref target="http://pypi.org/project/tgclients">
+                        <hi rend="color(#1155cc)underline">tgclients</hi>
+                    </ref>
+                    <hi rend="sup"><ref n="5" target="ftn10"/>
+                    </hi>). Die benötigten Bibliotheken können entweder direkt über eine Kommandozeile verwendet werden (von Nutzenden mit Programmierkentnissen), oder mittels eines Jupyter Notebooks, das diese Tools über eine Web-Oberfläche bedienbar macht. Eine Installation des Notebooks und der dazugehörigen Software auf dem eigenen Gerät ist möglich, aber unnötig, weil auf dem Text+-Jupyterhub alles Nötige für die Verwendung bereitliegt.
+                </p>
+                <p>Da die Jupyter-Technologie viele Vorteile bietet, entstehen im Text+-Kontext weitere Notebook-basierte Anwendungen, unter anderem auf Basis der Software, die für den Import-Workflow entwickelt wurde. Der Text+-Jupyterhub wird außerdem in den NFDI-Basisdienst Jupyter4NFDI
+                    <hi rend="sup"><ref n="6" target="ftn11"/>
+                    </hi> integriert, was einen breiteren Zugang zu diesen Anwendungen und den darunterliegenden Tools ermöglicht.
+                </p>
+            </div>
+            <div type="div1" rend="DH-Heading1">
+                <head>
+                    <anchor xml:id="id__4nl3owvbybr7"/>Zielgruppe und Pläne
+                </head>
+                <p>Der Workshop richtet sich an zwei verschiedene Gruppen: Zum einen an Forschende, die bereits über zu veröffentlichende Dokumente verfügen. Diese Dokumente sollten vorzugsweise bereits in XML-TEI kodiert sein, aber wir können auch über die Konvertierung von anderen Formaten (“plain text”, Word-Dokumente) beraten. Zum anderen richtet sich der Workshop auch an Forschende, die keine Dokumente für ihre Publikation haben, aber am Import interessiert sind. Für diese Teilnehmenden werden kleine Sammlungen zum Ausprobieren vorbereitet. Obwohl in TextGrid Repository hauptsächlich literarische Sammlungen veröffentlicht wurden, können Projekte auch Editionen publizieren, vor allem als Fallback-Lösung.</p>
+                <p>Im Vorfeld des Workshops werden die Teilnehmenden gebeten, grundlegende Informationen zu ihren Daten zu geben (ob sie ein Korpus haben, Anzahl der Dokumente, ob die Daten in TEI vorliegen, ob Bilder vorhanden sind) und dass sie sich erfolgreich in TGR angemeldet haben (entweder über einen DARIAH-Account oder über die eigene Institution).</p>
+                <p>Der geplante Workshop wird zwei halbe Tage dauern. Am ersten Tag ist eine Vorstellung des Teams, der Teilnehmenden und ihrer Daten vorgesehen. Die Hauptmerkmale des TGR werden erklärt und einen Überblick über den Import-Workflow mit grundlegenden Metadaten und Zeit zum Ausprobieren gegeben. Am zweiten Tag werden weitere Optionen zur Verbesserung und Erweiterung der Metadaten und projektspezifische Optionen (eigene XSLT-Transformation, Landing Page, Icon) vorgestellt und die Daten für eine abschließende Veröffentlichung überprüft. Weitere TGR-Dienste und Optionen (abgeleitete Textformate, Zugang zur tg-model API, Python Library) werden ebenfalls vorgestellt. Insgesamt werden die Teilnehmenden ihre Projekte und Daten vorstellen, wir werden das TextGrid Repository, seine alten und neuen Features vorstellen und ein erstes Publizieren eines Testkorpus gemeinsam durchführen. Anschließend haben die Teilnehmenden die Möglichkeit, ihre Daten in das TextGrid Repository hochzuladen. Verschiedene Experten und Entwickler der verschiedenen TextGrid-Komponenten werden anwesend sein, so dass die Teilnehmenden eine gute Beratung für die verschiedenen Schritte erhalten können. Das Hauptziel des Workshops ist es, dass die Projekte eine Version ihres Datensatzes in einem geschlossenen Bereich des Repositories hochgeladen haben.</p>
+            </div>
+        </body>
+        <back>
+<div type="notes">
+<note xml:id="ftn1" rend="footnote text" n="1"><ref target="https://textgrid.de/digitale-bibliothek"><hi rend="color(#1155cc)underline">https://textgrid.de/digitale-bibliothek</hi></ref>
+                        </note>
+<note xml:id="ftn7" rend="footnote text" n="2"> Ein speziell für den Import entwickeltes Python-Tool, das die Erstellung der erforderlichen TextGrid-spezifischen Metadaten-Dateien erleichtert.</note>
+<note xml:id="ftn8" rend="footnote text" n="3"> Ein Python-Tool zur Erstellung und Verwaltung von Projekten in TextGrid Repository.</note>
+<note xml:id="ftn9" rend="footnote text" n="4"> Eine Web-Anwendung zur Durchführung des Import-Workflows, die über ein Jupyter Notebook bedienbar ist.</note>
+<note xml:id="ftn10" rend="footnote text" n="5"> Ein Python-Tool für die Interaktion mit der TGR-API, worauf auch tgadmin basiert.</note>
+<note xml:id="ftn11" rend="footnote text" n="6"> S.
+                            <ref target="https://base4nfdi.de/projects/jupyter4nfdi">
+                                <hi rend="color(#1155cc)underline">base4nfdi.de/projects/jupyter4nfdi</hi>
+                            </ref>und 
+                            <ref target="http://nfdi-jupyter.de">
+                                <hi rend="color(#1155cc)underline">nfdi-jupyter.de</hi>
+                            </ref>.
+                        </note></div>
+            <div type="bibliogr">
+                <listBibl>
+                    <head>Bibliographie</head>
+                    <bibl><hi rend="bold">Balakrishnan, Uma, und Jakob Voß</hi>. 2022. „Automatische Anreicherung der Sacherschließung des Verbundkatalogs K10plus mittels coli-rich“. In 
+                        <hi rend="italic">#FreiräumeSchaffen</hi>. Leipzig: Bibliothek und Information Deutschland.
+                        <ref target="https://bid2022.abstractserver.com/program/#/details/presentations/27"> </ref>
+                        <ptr target="https://bid2022.abstractserver.com/program/#/details/presentations/27"/>.
+                    </bibl>
+                    <bibl><hi rend="bold">Barth, Florian, Yannic Bracke, José Calvo Tello, George Dogaru, Tillmann Dönicke, Keli Du, Stefan E. Funk, Philippe Genet, Mathias Göbel, Lennart Keller, Daniel Kurzawe, Ubbo Veentjer, &amp; Lukas Weimer</hi>. (2023). MONAPipe: Modular Natural Language Processing Pipeline for Digital Humanities (1.0). Text+ Plenary 2023: Connecting People an Data, SUB Göttingen. Zenodo. 
+                        <ptr target="https://doi.org/10.5281/zenodo.8424925"/>
+                    </bibl>
+                    <bibl><hi rend="bold">Betz, Katrin</hi>. 2015. „Ein virtuelles Bücherregal: Die Digitale Bibliothek im TextGrid Repository“. In 
+                        <hi rend="italic">TextGrid: Von der Community - für die Community</hi>, herausgegeben von Heike Neuroth, Andrea Rapp, und Sibylle Söring, 229–39. Glückstadt: Verlag Werner Hülsbusch.
+                        <ref target="https://publications.goettingen-research-online.de/handle/2/14388">
+                            <hi rend="color(#1155cc)underline">https://publications.goettingen-research-online.de/handle/2/14388</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl><hi rend="bold">Buddenbohm, Stefan, José Calvo Tello, George Dogaru, Stefan Funk, Ralf Klammer, Alex Steckel, und Lukas Weimer</hi>. 2024. „Preserving Humanities Research Data: Data Depositing in the TextGrid Repository Aka The Fluffy Import“. Gehalten auf der DARIAH Annual Event - Workflows, Lisbon, Juni 18.
+                        <ref target="https://zenodo.org/records/11279675">
+                            <hi rend="color(#1155cc)underline">https://zenodo.org/records/11279675</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl><hi rend="bold">Buddenbohm, Stefan, und Barbara K. Fischer</hi>. 2023. „Das G in GND: ein Erfahrungsaustausch von GND-Agenturen“. 
+                        <hi rend="italic">Text+ Blog</hi> (blog). 3. Mai 2023.
+                        <ref target="https://textplus.hypotheses.org/5071">
+                            <hi rend="color(#1155cc)underline">https://textplus.hypotheses.org/5071</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl><hi rend="bold">Calvo Tello, José</hi>. 2021. 
+                        <hi rend="italic">The Novel in the Spanish Silver Age: A Digital Analysis of Genre Using Machine Learning</hi>. Digital Humanities Research 4. Bielefeld: transcript.
+                        <ref target="https://www.transcript-verlag.de/978-3-8376-5925-2/the-novel-in-the-spanish-silver-age/?c=331025282">
+                            <hi rend="color(#1155cc)underline">https://www.transcript-verlag.de/978-3-8376-5925-2/the-novel-in-the-spanish-silver-age/?c=331025282</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl><hi rend="bold">Calvo Tello, José, Florian Barth, Stefan Funk, Daniel Kurzawe, Nanette Rißler-Pipka, und Ubbo Veentjer</hi>. 2023. „Between corpora, tools and standards data: TextGrid Repository for Hispanic Studies“. In 
+                        <hi rend="italic">Hispanistik in neuen Umwelten: Digitalisierung, Schnittstellen, Reinskriptionen</hi>, 253–56. Graz.
+                        <ref target="https://doi.org/10.25364/513.2023.1">
+                            <hi rend="color(#1155cc)underline">https://doi.org/10.25364/513.2023.1</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl><hi rend="bold">Calvo Tello, José, Stefan E. Funk, Daniel Kurzawe, und Ubbo Ventjeer</hi>. 2023. „Inhaltserschließung für Forschungsdaten: TextGrid Repository, Normdaten und Basisklassifikation“. In 
+                        <hi rend="italic">FORGE23</hi>. Tübingen.
+                        <ref target="https://doi.org/10.5281/zenodo.8341605">
+                            <hi rend="color(#1155cc)underline">https://doi.org/10.5281/zenodo.8341605</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl><hi rend="bold">Calvo Tello, José, und Nanette Rißler-Pipka</hi>. 2023. „¿Qué hacer con textos que no se pueden publicar? Datos derivados, criterios FAIR y TEI“. 
+                        <hi rend="italic">Journal of the Text Encoding Initiative</hi>, Nr. 16 (Mai).
+                        <ref target="https://doi.org/10.4000/jtei.4720">
+                            <hi rend="color(#1155cc)underline">https://doi.org/10.4000/jtei.4720</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl><hi rend="bold">Dogaru, George</hi>. 2023. „Das Text+-Langzeitarchiv: Eine generische Lösung für den nachhaltigen Erhalt von Daten in den Geisteswissenschaften“. Juni 22.
+                        <ref target="https://doi.org/10.5281/zenodo.8108792">
+                            <hi rend="color(#1155cc)underline">https://doi.org/10.5281/zenodo.8108792</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl><hi rend="bold">Florian Barth, Stefan Buddenbohm, José Calvo Tello, George Dogaru, Stefan E. Funk, Mathias Göbel, Ralf Klammer, Ubbo Veentjer </hi>(8. Mai 2024). Fluffy Workflow: Neue Tools für den Datenimport ins TextGridRep. Text+ Blog. Abgerufen am 19. Juli 2024 von 
+                        <ptr target="https://doi.org/10.58079/11nmp"/>
+                    </bibl>
+                    <bibl><hi rend="bold">Funk, Stefan E., und Wolfgang Pempe</hi>. 2015. „Vom Konzept zur Umsetzung — Einblicke in die Entstehung des TextGrid Repository“. In 
+                        <hi rend="italic">TextGrid: Von der Community - für die Community</hi>, herausgegeben von Heike Neuroth, Andrea Rapp, und Sibylle Söring, 191–200. Glückstadt: Verlag Werner Hülsbusch.
+                        <ref target="https://publications.goettingen-research-online.de/handle/2/14388">
+                            <hi rend="color(#1155cc)underline">https://publications.goettingen-research-online.de/handle/2/14388</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl><hi rend="bold">Gantert, Klaus</hi>. 2016. 
+                        <hi rend="italic">Bibliothekarisches Grundwissen</hi>. 
+                        <hi rend="italic">Bibliothekarisches Grundwissen</hi>. Berlin, Boston: De Gruyter Saur.
+                        <ref target="https://www.degruyter.com/view/title/302969">
+                            <hi rend="color(#1155cc)underline">https://www.degruyter.com/view/title/302969</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl><hi rend="bold">Gradl, Tobias, Harald Lordick, Christoph Kudella, und Daniela Schulz</hi>. "Towards a Registry for Digital Resources – The Text+ Registry for Editions​." ​Datenbank-Spektrum (2024): . ​
+                        <ptr target="https://doi.org/10.1007/s13222-024-00479-0"/>.
+                    </bibl>
+                    <bibl><hi rend="bold">Hinrichs, Erhard, Peter Leinen, Alexander Geyken, Andreas Speer, und Regine Stein</hi>. 2022. „Text+: Language- and Text-Based Research Data Infrastructure“. Zenodo. https://doi.org/10.5281/zenodo.6452002.
+                        <ref target="https://zenodo.org/record/6452002">
+                            <hi rend="color(#1155cc)underline">https://zenodo.org/record/6452002</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl><hi rend="bold">Hynek, Stefan, Ubbo Veentjer, José Calvo Tello, Florian Barth, Stefan Funk, Mathias Goebel, Daniel Kurzawe, und Lukas Weimer</hi>. 2024. „TextGrid Python Clients: Making the Repository Programmable“. In .
+                        <ref target="https://doi.org/10.5281/zenodo.10706157">
+                            <hi rend="color(#1155cc)underline">https://doi.org/10.5281/zenodo.10706157</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl><hi rend="bold">Kett, Jürgen, Christoph Kudella, Andrea Rapp, Regine Stein, und Thorsten Trippel</hi>. 2022. „Text+ Und Die GND – Community-Hub Und Wissensgraph“. 
+                        <hi rend="italic">Zeitschrift Für Bibliothekswesen Und Bibliographie</hi> 69 (1–2): 37–47.
+                        <ref target="https://doi.org/10.3196/1864295020691262">
+                            <hi rend="color(#1155cc)underline">https://doi.org/10.3196/1864295020691262</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl><hi rend="bold">Körner, Erik, Thomas Eckart, Axel Herold, Frank Wiegand, Frank Michaelis, Matthias Bremm, Louis Cotgrove, Thorsten Trippel, und Felix Rau</hi>. 2023. „Federated Content Search for Lexical Resources (LexFCS): Specification“.
+                        <ref target="https://doi.org/10.5281/zenodo.7986303">
+                            <hi rend="color(#1155cc)underline">https://doi.org/10.5281/zenodo.7986303</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl><hi rend="bold">Neuroth, Heike, Andrea Rapp, und Sibylle Söring, Hrsg</hi>. 2015. 
+                        <hi rend="italic">TextGrid: Von der Community - für die Community: eine virtuelle Forschungsumgebung für die Geisteswissenschaften</hi>. Glückstadt: Verlag Werner Hülsbusch.
+                        <ref target="https://publications.goettingen-research-online.de/handle/2/14388">
+                            <hi rend="color(#1155cc)underline">https://publications.goettingen-research-online.de/handle/2/14388</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl><hi rend="bold">Rißler-Pipka, Nanette, José Calvo Tello, Stefan E. Funk, Carolin Odebrecht, Christof Schöch, und Ubbo Veentjer</hi>. 2023. „The European Literary Text Collection in TextGrid Repository“. In 
+                        <hi rend="italic">Collaboration as Opportunity</hi>, herausgegeben von Walter Scholger, Georg Vogeler, Toma Tasovac, Anne Baillot, Elisabeth Raunig, Martina Scholger, Elisabeth Steiner, und Patrick Helling. Graz: ADHO.
+                        <ref target="https://doi.org/10.5281/ZENODO.8107707">
+                            <hi rend="color(#1155cc)underline">https://doi.org/10.5281/ZENODO.8107707</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl><hi rend="bold">Schöch, Christof, José Calvo Tello, Ulrike Henny-Krahmer, und Stefanie Popp</hi>. 2019. „The CLiGS Textbox: Building and Using Collections of Literary Texts in Romance Languages Encoded in XML-TEI“. 
+                        <hi rend="italic">Journal of the Text Encoding Initiative</hi>.
+                        <ref target="https://journals.openedition.org/jtei/2085">
+                            <hi rend="color(#1155cc)underline">https://journals.openedition.org/jtei/2085</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl><hi rend="bold">Schöch, Christof, Tomaz Erjavec, Roxana Patras, und Diana Santos</hi>. 2021. „Creating the European Literary Text Collection (ELTeC): Challenges and Perspectives“. 
+                        <hi rend="italic">Modern Languages Open</hi>, Nr. 1 (Dezember), 25.
+                        <ref target="https://doi.org/10.3828/mlo.v0i0.364">
+                            <hi rend="color(#1155cc)underline">https://doi.org/10.3828/mlo.v0i0.364</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl><hi rend="bold">Schulz, Ursula</hi>. 1991. „Die niederländische Basisklassifikation: eine Alternative für die ‚Sachgruppen‘ im Fremddatenangebot der Deutschen Bibliothek“. 
+                        <hi rend="italic">Bibliotheksdienst</hi> 25:1196–1219.
+                    </bibl>
+                    <bibl><hi rend="bold">Taylor, Arlene G., Hrsg</hi>. 2007. 
+                        <hi rend="italic">Understanding FRBR: what it is and how it will affect our retrieval tools</hi>. Westport, Conn: Libraries Unlimited.
+                    </bibl>
+                    <bibl><hi rend="bold">Wilkinson, Mark D., Michel Dumontier, IJsbrand Jan Aalbersberg, Gabrielle Appleton, Myles Axton, Arie Baak, Niklas Blomberg, u. a.</hi> 2016. „The FAIR Guiding Principles for scientific data management and stewardship“. 
+                        <hi rend="italic">Scientific Data</hi> 3 (März).
+                        <ref target="https://doi.org/10.1038/sdata.2016.18">
+                            <hi rend="color(#1155cc)underline">https://doi.org/10.1038/sdata.2016.18</hi>
+                        </ref>.
+                    </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>

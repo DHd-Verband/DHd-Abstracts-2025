@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="SCHR_TER_GEB__VATER_Christian_Global__Local_und__Under_Const">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Global, Local und “Under Construction” – Digitale Geisteswissenschaften im deutschsprachigen Raum: Ein Triptychon</title>
+                <author>
+                    <persName>
+                        <surname>Schröter geb. Vater</surname>
+                        <forename>Christian</forename>
+                    </persName>
+                    <affiliation>Akademie der Wissenschaften und der Literatur | Mainz, Deutschland</affiliation>
+                    <email>christian.vater@adwmainz.de</email>
+                    <idno type="ORCID">0000-0003-1367-8489</idno>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Wuttke</surname>
+                        <forename>Ulrike</forename>
+                    </persName>
+                    <affiliation>Fachhochschule Potsdam, Deutschland</affiliation>
+                    <email>ulrike.wuttke@fh-potsdam.de</email>
+                    <idno type="ORCID">0000-0002-8217-4025</idno>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Seltmann</surname>
+                        <forename>Melanie</forename>
+                    </persName>
+                    <affiliation>Humboldt-Universität zu Berlin, Deutschland</affiliation>
+                    <email>melanie.seltmann.1@hu-berlin.de</email>
+                    <idno type="ORCID">0000-0002-7588-4395</idno>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Wachter</surname>
+                        <forename>Christian</forename>
+                    </persName>
+                    <affiliation>Universität Bielefeld, Deutschland</affiliation>
+                    <email>christian.wachter@uni-bielefeld.de</email>
+                    <idno type="ORCID">0000-0003-2937-0868</idno>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Nunn</surname>
+                        <forename>Christopher</forename>
+                    </persName>
+                    <affiliation>Universität Heidelberg, Deutschland</affiliation>
+                    <email>christopher.nunn@theologie.uni-heidelberg.de</email>
+                    <idno type="ORCID">0000-0001-7208-8636</idno>
+                </author>
+                <author>
+                    <persName>
+                        <surname>Baillot</surname>
+                        <forename>Anne</forename>
+                    </persName>
+                    <affiliation>DARIAH-ERIC</affiliation>
+                    <email>anne.baillot@dariah.eu</email>
+                    <idno type="ORCID">0000-0002-4593-059X</idno>
+                </author>
+            </titleStmt>
+            <editionStmt>
+                <edition>
+                    <date>2024-11-27T17:03:00Z</date>
+                </edition>
+            </editionStmt>
+            <publicationStmt>
+                <publisher>Bielefeld Computational Literary Studies Group</publisher>
+                <address>
+                    <addrLine>Universität Bielefeld</addrLine>
+                    <addrLine>Universitätsstraße 25</addrLine>
+                    <addrLine>33615 Bielefeld</addrLine>
+                    <addrLine>Deutschland</addrLine>
+                </address>
+                <publisher>Digital History</publisher>
+                <address>
+                    <addrLine>Universität Bielefeld</addrLine>
+                    <addrLine>Universitätsstraße 25</addrLine>
+                    <addrLine>33615 Bielefeld</addrLine>
+                    <addrLine>Deutschland</addrLine>
+                </address>
+                <publisher>Digital Linguistics Lab</publisher>
+                <address>
+                    <addrLine>Universität Bielefeld</addrLine>
+                    <addrLine>Universitätsstraße 25</addrLine>
+                    <addrLine>33615 Bielefeld</addrLine>
+                    <addrLine>Deutschland</addrLine>
+                </address>
+            </publicationStmt>
+            <sourceDesc>
+                <p>Converted from a Word document</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <appInfo>
+                <application ident="DHCONVALIDATOR" version="1.22">
+                    <label>DHConvalidator</label>
+                </application>
+            </appInfo>
+        </encodingDesc>
+        <profileDesc>
+            <textClass>
+                <keywords scheme="ConfTool" n="category">
+                    <term>Paper</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="subcategory">
+                    <term>Poster</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="keywords">
+                    <term>Wissenschaftsgeschichte</term>
+                    <term>Digitales Publizieren</term>
+                    <term>Oral History</term>
+                    <term>Artefaktbiographien</term>
+                </keywords>
+                <keywords scheme="ConfTool" n="topics">
+                    <term>Entdeckung</term>
+                    <term>Sammlung</term>
+                    <term>Aufzeichnung</term>
+                    <term>Kontextsetzung</term>
+                    <term>Theoretisierung</term>
+                    <term>Veröffentlichung</term>
+                </keywords>
+            </textClass>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p style="text-align: left; ">Digitale Methoden sind Teil der Geistes- und Kulturwissenschaften geworden. Welche Auswirkungen auf Curriculargestaltung, Hochschulstruktur oder Zuschnitt von Fachprofessionen dies hat, ist in der Gegenwart allerdings noch nicht absehbar. Denn Digital Humanists arbeiten, obwohl sie einer globalen Gemeinschaft angehören, in nationalen und lokalen Kontexten (Horstmann und Schöch, 2024; Rehbein und Sahle, 2013). Es stellt sich – in einem Fach 
+                <hi rend="italic">under construction</hi> – die ernstzunehmende Frage nach paradigmatischer Einheit oder multidisziplinärer Vielfalt. Sind die 
+                <hi rend="italic">Digital Humanities</hi> das 
+                <hi rend="italic">big tent</hi>, als das sie seit Beginn ihrer Theoriebildung gelten (Gold 2013), oder geht es vielmehr um eine Vielfalt des Einsatzes digitaler Methoden in den Geistes- und Kulturwissenschaften, um einen Computereinsatz, der historisch bis in die 1940er Jahre zurückreicht, und sich vielleicht als 
+                <hi rend="italic">Leibniz’ Traum</hi> noch viel weiter zurückverfolgen lässt (Krämer 1988, Davies 2004)?
+            </p>
+            <p style="text-align: left; ">Die geplante Publikation soll einen Beitrag dazu leisten, den aktuellen Stand dieser Entwicklung in seiner Vielstimmigkeit zu sammeln, historische Entwicklungen festzuhalten und – auch in Reaktion auf die große Frage “Quo vadis DH?” des vergangenen Jahres – einzelne Blicke in die Zukunft zu wagen. Ein traditioneller Sammelband kann dabei in einer multimedialen Welt, die global vernetzt und gleichzeitig massiv multilateral ist, dieser Aufgabe nicht mehr vollständig gerecht werden (AG Digitales Publizieren, 2021). Geleitet wird die geplante Publikation insbesondere von der Frage, inwieweit die Praxis der deutschsprachigen DH durch die zeitlichen Kontexte und die strukturellen Rahmenbedinungen, wie sie an verschiedenen Forschungsorten je unterschiedlich vorliegen, verändert wird. Sie bietet daher Raum für eine kritische Betrachtung der hochgradig spezifischen und zeitlich wie örtlich geprägten Vielzahl der technologischen Manipulationen und Eingriffe in die Materialien, mit denen Digital Humanists arbeiten, und der Ausprägungen der Digital Humanities in regional und sprachlich bedingten Kontexten.</p>
+            <p style="text-align: left; ">Für unser Konzept eines neuen – digitalen und vernetzten – Publikationstyps wurde ein passendes Format gesucht: ‚klassische‘ historiographische oder theoretische Textbeiträge sollten mit auditiven, an Oral History orientierten Formaten und Objektbiographien verbunden werden. Neben Texten sollten Menschen zu Wort kommen und Artefakte “sprechen”, so dass neben die Ausführenden die Werkzeuge und Praktiken, die technischen Voraussetzungen und sozialen Gelingensbedingungen und (manchmal auch verfehlten) Ergebnisse wissenschaftlichen Arbeitens treten können. Als Leitmetapher im Entwurfsprozess bot sich das Bild eines Triptychons an: ein zentral im Fokus der Perspektivlinien eines besonderen Raumes gesetztes Artefakt, dessen Inhalte sich erst zeigen und vollumfänglich zugänglich werden, wenn man es aufklappt und somit öffnet. Doch lassen sich nicht nur Praktiken der Offenlegung restringierter Wissensordnungen in dieser Metapher passend explizieren, sondern auch anthropologische Setzungen festmachen: Der Mensch steht im Mittelpunkt und wird von Texten und Artefakten zu beiden Seiten begleitet; zentral sind lebendige Gespräche mit Personen über ihre Forschung, sowie die Ergebnisse der jeweiligen Anstrengungen. Wissenschaft findet als Herstellungsprozess lokal verortet in einer global vernetzten Welt statt und ist geprägt durch zeitliche Voraussetzungen und Begrenzungen.</p>
+            <p style="text-align: left; ">Die entstehende Publikation konzentriert sich auf den deutschsprachigen Raum. Auf einen Call for Abstracts im April 2024 wurden Einreichungen in den Feldern BE-FORSCHEN (‚klassische‘ Artikel) und ARTEFAKTE (Artefaktbiografien zu Fallbeispielen des Computereinsatzes in den Geisteswissenschaften) eingesammelt, parallel dazu Vorschlägen für die Kategorie IN EIGENEN WORTEN (auditive Formate).</p>
+            <p style="text-align: left; ">Wichtige Kriterien für die Wahl des Verlags waren sowohl eine Open Access Publikation als auch die Begleitung und nachhaltige technische Unterstützung einer multimodalen und multimedialen Konzeption. Die Wahl fiel auf den nicht kommerziellen Universitätsverlag Melusina Press, “an initiative for hybrid, multimodal diamond open-access publishing at the University of Luxembourg” (Melusina Press, ohne Angabe), der sich schon mit experimentellen Publikationstypen in den Digital Humanities im Rahmen der vDHd2021 in der Form sogenannter 
+                <hi rend="italic">Data Papers</hi> und 
+                <hi rend="italic">Code Experiments</hi> einen Namen gemacht hat (Burghardt et al., 2021f.). Melusina Press bietet nicht nur die Möglichkeit 
+                <hi rend="italic">scholarly led</hi> und ohne 
+                <hi rend="italic">Article Processing Charges</hi> zu publizieren – wichtige Parameter einer zukunftsgerichteten digitalen Publikationskultur in den Digital Humanities – sondern auch datenbasierte Workflows auf der Grundlage von TEI/XML sowie die Möglichkeit einer (
+                <hi rend="italic">print on demand</hi>) Druckversion. Ein solches Format kombiniert unterschiedliche Aspekte, die für die vielstimmige Darstellung der DH im deutschsprachigen Raum wesentlich sind: diskursive Darlegungen in Artikelform, persönliche Einblicke und den Prozess des “Verfertigen der Gedanken” (Moltmann, 2020) in auditiver Gesprächsform sowie eine Repräsentation von Artefakte auch in Hinblick auf ihre Materialität und die sie betreffenden Praktiken, die eine rein textliche Darstellung herausfordern. All diese Modalitäten sollten zum Ausdruck kommen können, was mit dem Triptychonkonzept eingelöst wird. Der Fokus auf die lokale(n) Geschichte(n) ist gewollt, erhofft wird, dass sie in Spannung zum globalen Kontext erzählt werden – ob globale Zusammenhänge sichtbar oder lokale Eigenheiten betont werden, ist Teil des Erkenntnisinteresses. Andere Vorhaben zu Entwicklungen zum Beispiel in vornehmlich oral geprägten (Fach-)Kulturen wären ein fruchtbares Komplement zu diesem Band.
+            </p>
+            <p style="text-align: left; ">Die Beobachtungen und Ziele des Bandes sollen auf der DHd 2025 in die Fachdiskussion eingebracht werden, um zu einem vertieften Austausch beizutragen, der in die weitere Gestaltung von Vorwort Finalisierung einfließen kann. Die Veröffentlichung des fertigen Bandes ist zur DHd 2026 geplant.</p>
+        </body>
+        <back>
+            <div type="bibliogr">
+                <listBibl>
+                    <head>Bibliographie</head>
+                    <bibl style="text-align: left; "><hi rend="bold">AG Digitales Publizieren</hi>. 2021. 
+                        <hi rend="italic">Digitales Publizieren in den Geisteswissenschaften: Begriffe, Standards, Empfehlungen</hi>. DOI:
+                        <ref target="https://doi.org/10.17175/wp_2021_001_v2">
+                            <hi rend="color(1155CC)">10.17175/wp_2021_001_v2</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl style="text-align: left; "><hi rend="bold">Burghardt, Manuel, Lisa Dieckmann, Timo Steyer, Peer Trilcke, Niels-Oliver Walkowski, Joëlle Weis und Ulrike Wuttke</hi>. 2021f. 
+                        <hi rend="italic">Fabrikation von Erkenntnis. Experimente in den Digital Humanities</hi>. Gemeinschaftspublikation der Zeitschrift für digitale Geisteswissenschaften und Melusina Press. DOI:
+                        <ref target="https://doi.org/10.17175/sb005">
+                            <hi rend="color(1155CC)">https://doi.org/10.17175/sb005</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl style="text-align: left; "><hi rend="bold">Davis, Martin</hi>. 2001. 
+                        <hi rend="italic">The Universal Computer. The Road from Leibniz to Turing</hi>. New York: W.W. Norton &amp; Company.
+                    </bibl>
+                    <bibl style="text-align: left; "><hi rend="bold">Gold, Matthew K</hi>. 2013. 
+                        <hi rend="italic">Debates in the Digital Humanities</hi>. Minneapolis, MN: University of Minnesota Press.
+                    </bibl>
+                    <bibl style="text-align: left; "><hi rend="bold">Horstmann, Jan und Christof Schöch</hi>. 2024. „DH-Professuren im deutschsprachigen Raum visualisiert.“ 
+                        <hi rend="italic">DHd-Blog</hi>.
+                        <ref target="https://dhd-blog.org/?p=21260">
+                            <hi rend="color(1155CC)">https://dhd-blog.org/?p=21260</hi>
+                        </ref>.
+                    </bibl>
+                    <bibl style="text-align: left; "><hi rend="bold">Krämer, Sybille</hi>. 1988. 
+                        <hi rend="italic">Symbolische Maschinen. Die Idee der Formalisierung in geschichtlichem Abriß</hi>. Darmstadt: Akademie Verlag.
+                    </bibl>
+                    <bibl style="text-align: left; "><hi rend="bold">Melusina Press</hi>. Ohne Angabe. Verlagswebseite. 
+                        <ref target="https://www.melusinapress.lu/">https://www.melusinapress.lu/</ref> (zugegriffen: 24. Juli 2024).
+                    </bibl>
+                    <bibl style="text-align: left; "><hi rend="bold">Moltmann, Rebecca</hi>. 2020. “Vom ‘Verfertigen der Gedanken’. Das Potential von Podcasts für die geisteswissenschaftliche Wissenschaftskommunikation” In kommunikation@gesellschaft, 21(2). DOI: 
+                        <ref target="https://doi.org/10.15460/kommges">https://doi.org/10.15460/kommges</ref>.
+                    </bibl>
+                    <bibl style="text-align: left; "><hi rend="bold">Rehbein, Malte und Patrick Sahle</hi>. 2013. „Digital Humanities lehren und lernen: Modelle, Strategien, Erwartungen.“ In 
+                        <hi rend="italic">Evolution der Informationsinfrastruktur: Kooperation zwischen Bibliothek und Wissenschaft</hi>, hg. von Heike Neuroth, Norbert Lossau, und Andrea Rapp, 209–228. Glückstadt: Hülsbusch.
+                        <ref target="https://doi.org/10.3249/webdoc-39006">
+                            <hi rend="color(1155CC)">https://doi.org/10.3249/webdoc-39006</hi>
+                        </ref> (zugegriffen: 23. Juli 2024).
+                    </bibl>
+                </listBibl>
+            </div>
+        </back>
+    </text>
+</TEI>
